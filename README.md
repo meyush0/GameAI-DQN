@@ -26,6 +26,7 @@ This project leverages a Deep Q-Network (DQN) to enable an AI to learn and maste
    ```bash
    git clone https://github.com/yourusername/GameAI-DQN.git
 
+
 ### Prerequisites
 
 - Python 3.7+
@@ -39,16 +40,11 @@ To install the required dependencies, use the following command:
 ```sh
 pip install -r requirements.txt
 
-#  Working
 
-Game Environment: The Breakout game is implemented using Pygame. The game environment provides the state space and rewards based on the agent's actions.
-Deep Q-Network: The neural network model includes convolutional layers to extract features from the game's visual input and fully connected layers to predict Q-values for different actions.
-Training: The training process involves interacting with the game environment, storing experiences, and updating the DQN model using experience replay and target networks.
-OpenCV Integration: OpenCV is used for image processing tasks, such as capturing and preprocessing game frames to be fed into the DQN model.
 
-For any questions or inquiries, please contact:
 
-```bash
-Email: aayush0761@gmail.com
-GitHub: https://github.com/me.yush0/
+
+
+
+
 
