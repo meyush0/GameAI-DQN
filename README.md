@@ -3,7 +3,7 @@
 
 ## Demo Video
 
-![Demo Video](C:\Users\ADMIN\Downloads\intro.mp4)
+![Demo Video](https://github.com/meyush0/GameAI-DQN/blob/main/intro.mp4) 
 
 
 ## Overview
