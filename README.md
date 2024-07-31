@@ -32,6 +32,7 @@ This project leverages a Deep Q-Network (DQN) to enable an AI to learn and maste
 - Python 3.7+
 - Pygame
 - TensorFlow/Keras
+- open-cv
 
 ### Installing Dependencies
 
@@ -39,12 +40,3 @@ To install the required dependencies, use the following command:
 
 ```sh
 pip install -r requirements.txt
-
-
-
-
-
-
-
-
-
